@@ -1,0 +1,8 @@
+flask
+tensorflow
+numpy
+matplotlib
+seaborn
+pandas
+pathlib
+os
